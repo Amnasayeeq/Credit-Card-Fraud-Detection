@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# Credit-Card-Fraud-Detection-Kaggle
 Data-Mining 
 ---
 A complete data mining pipeline for detecting fraudulent credit card transactions, built on a real-world, highly imbalanced dataset of European cardholder transactions.
